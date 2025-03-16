@@ -10,6 +10,7 @@ Utilizando gradientes ✅
 <br/>
 <br/>
 Design: <a target="_blank" src="https://dribbble.com/shots/15711636-inventory-catalog">https://dribbble.com/shots/15711636-inventory-catalog</a>
+<br/>
 Link do site: <a target="_blank" src="https://bielartur.github.io/web-commerce-catalog/">https://bielartur.github.io/web-commerce-catalog/</a>
 <div> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722707.png" alt="Logo do HTML" width="32px"/>
