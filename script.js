@@ -40,7 +40,7 @@ function checkScreenSize() {
   if (window.matchMedia("(max-width: 768px)").matches) {
     handleMenuBar();
   } else {
-    navContainer.style.left = '0px'
+    navContainer.style.left = '-100%'
   }
 }
 
