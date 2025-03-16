@@ -4,9 +4,9 @@ const nav = document.querySelector('nav')
 
 function handleMenuBar() {
 
-  console.log(menuBar)
+  let isOpen = true
 
-  let isOpen = false
+  navContainer.style.left = '-100%'
 
   menuBar.addEventListener('click', () => {
     if (isOpen) {
