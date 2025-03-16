@@ -1,5 +1,5 @@
 # Catálogo de Web Commerce
-Esse foi um dos projetos onde eu reforcei meus conhecimentos em HTML, CSS e Javasript!
+Esse foi um dos projetos onde eu reforcei meus conhecimentos em HTML, CSS e Javascript!
 <br/>
 <br/>
 Tags semânticas ✅
