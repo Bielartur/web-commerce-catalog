@@ -9,7 +9,6 @@ function handleMenuBar() {
   let isOpen = false
 
   menuBar.addEventListener('click', () => {
-    isOpen = !isOpen
     if (isOpen) {
       navContainer.style.left = 0
       menuBar.style.position = 'fixed'
@@ -17,6 +16,7 @@ function handleMenuBar() {
       navContainer.style.left = '-100%'
       menuBar.style.position = 'absolute'
     }
+    isOpen = !isOpen
     }
   )
 }
@@ -40,7 +40,7 @@ function checkScreenSize() {
   if (window.matchMedia("(max-width: 768px)").matches) {
     handleMenuBar();
   } else {
-    navContainer.style.left = '-100%'
+    navContainer.style.left = '0px'
   }
 }
 
