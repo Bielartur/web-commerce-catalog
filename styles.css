@@ -357,6 +357,6 @@ header h1 {
 
 @media (max-width: 426px) {
   .icons {
-    gap: 1.5rem;
+    gap: 1rem;
   }
 }
